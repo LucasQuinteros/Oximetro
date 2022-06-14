@@ -1,0 +1,1118 @@
+Archive member included because of file (symbol)
+
+C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+                              ./src/main.o (Init_Msj)
+C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+                              ./src/main.o (GetInReport)
+C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                              C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o) (USB_Init)
+C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+                              C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o) (USB_Reset_Event)
+C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+                              C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o) (USB_DeviceStatus)
+C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbdesc.o)
+                              C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o) (HID_ReportDescriptor)
+C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+                              C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o) (HID_GetReport)
+C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                              ./src/adcc.o (ADC_Init)
+C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+                              C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o) (CLKPWR_GetPCLK)
+C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                              ./src/main.o (GPIO_SetDir)
+C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+                              C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o) (check_failed)
+C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+                              ./src/adcc.o (PINSEL_ConfigPin)
+C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                              ./src/cr_startup_lpc176x.o (SystemInit)
+c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc176x.o (__main)
+c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(division.o)
+                              C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o) (__aeabi_uldivmod)
+c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+                              ./src/main.o (__aeabi_fmul)
+
+Allocating common symbols
+Common symbol       size              file
+
+USB_AltSetting      0x1               C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+dat                 0x50              ./src/main.o
+j                   0x4               ./src/main.o
+ledtick2            0x4               ./src/main.o
+InReport            0x10              C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+EP0Buf              0x8               C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+contamos            0x4               ./src/main.o
+auxIR               0x4               ./src/main.o
+USB_EndPointMask    0x4               C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+USB_DeviceAddress   0x1               C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+bufmin              0x28              ./src/main.o
+auxIR2              0x4               ./src/main.o
+instruccion         0x1               C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+auxR                0x4               ./src/main.o
+auxSpO2             0x4               ./src/main.o
+USB_EndPointStall   0x4               C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+auxR2               0x4               ./src/main.o
+bufmax              0x28              ./src/main.o
+i                   0x4               ./src/main.o
+USB_EndPointHalt    0x4               C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+bpp                 0x4               ./src/main.o
+conta               0x4               ./src/main.o
+cont                0x4               ./src/main.o
+HID_IdleTime        0x1               C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+SpO2                0x4               ./src/main.o
+R                   0x4               ./src/main.o
+USB_Configuration   0x1               C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+buf                 0x7d0             ./src/main.o
+msTicks             0x1               ./src/main.o
+toggle              0x4               ./src/main.o
+SetupPacket         0x8               C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+USB_NumInterfaces   0x1               C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+OutReport           0x10              C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+a                   0x4               ./src/main.o
+HID_Protocol        0x1               C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+EP0Data             0x8               C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+USB_DeviceStatus    0x2               C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./src/adcc.o
+ .data          0x00000000        0x0 ./src/adcc.o
+ .bss           0x00000000        0x0 ./src/adcc.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc176x.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc176x.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc176x.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .text          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+ .data          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+ .bss           0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+ .text.Init_Gpio
+                0x00000000       0x74 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+ .text.Init_LCD
+                0x00000000       0xc0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+ .text.lcd_Clear
+                0x00000000       0x48 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+ .text          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+ .data          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+ .bss           0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+ .text          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+ .data          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+ .bss           0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+ .text.USB_WakeUp
+                0x00000000       0x2c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+ .text.USB_ClearEPBuf
+                0x00000000       0x20 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+ .text.USB_GetFrame
+                0x00000000       0x48 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+ .text          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .data          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .bss           0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .text.USB_EndPoint2
+                0x00000000       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .text.USB_EndPoint3
+                0x00000000       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .text.USB_EndPoint4
+                0x00000000       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .text.USB_EndPoint5
+                0x00000000       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .text.USB_EndPoint6
+                0x00000000       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .text.USB_EndPoint7
+                0x00000000       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .text.USB_EndPoint8
+                0x00000000       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .text.USB_EndPoint9
+                0x00000000       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .text.USB_EndPoint10
+                0x00000000       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .text.USB_EndPoint11
+                0x00000000       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .text.USB_EndPoint12
+                0x00000000       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .text.USB_EndPoint13
+                0x00000000       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .text.USB_EndPoint14
+                0x00000000       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .text.USB_EndPoint15
+                0x00000000       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .text          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+ .data          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+ .bss           0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+ .text          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbdesc.o)
+ .data          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbdesc.o)
+ .bss           0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbdesc.o)
+ .text          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+ .data          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+ .bss           0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+ .text          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .data          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .bss           0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .text.ADC_DeInit
+                0x00000000       0x30 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .text.ADC_GetData
+                0x00000000       0x10 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .text.ADC_StartCmd
+                0x00000000       0x3c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .text.ADC_PowerdownCmd
+                0x00000000       0x30 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .text.ADC_EdgeStartConfig
+                0x00000000       0x3c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .text.ADC_IntConfig
+                0x00000000       0x44 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .text.ADC_ChannelGetStatus
+                0x00000000       0x48 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .text.ADC_GlobalGetData
+                0x00000000       0x20 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .text.ADC_GlobalGetStatus
+                0x00000000       0x44 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .text          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .data          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .bss           0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_SetPCLKDiv
+                0x00000000       0x54 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_Sleep
+                0x00000000       0x10 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_DeepSleep
+                0x00000000       0x1c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_PowerDown
+                0x00000000       0x1c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_DeepPowerDown
+                0x00000000       0x1c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .text          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .data          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .bss           0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.GPIO_ReadValue
+                0x00000000       0x18 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.GPIO_IntCmd
+                0x00000000       0x30 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.GPIO_GetIntStatus
+                0x00000000       0x38 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.GPIO_ClearInt
+                0x00000000       0x18 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_SetDir
+                0x00000000        0x4 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_SetValue
+                0x00000000        0x4 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_ClearValue
+                0x00000000        0x4 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_ReadValue
+                0x00000000        0x4 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_IntCmd
+                0x00000000        0x4 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_GetIntStatus
+                0x00000000        0x4 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_ClearInt
+                0x00000000        0x4 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_SetMask
+                0x00000000       0x24 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordSetDir
+                0x00000000       0x40 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordSetMask
+                0x00000000       0x40 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordSetValue
+                0x00000000       0x1c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordClearValue
+                0x00000000       0x1c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordReadValue
+                0x00000000       0x20 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_ByteSetDir
+                0x00000000       0x30 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_ByteSetMask
+                0x00000000       0x34 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_ByteSetValue
+                0x00000000       0x1c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_ByteClearValue
+                0x00000000       0x1c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text.FIO_ByteReadValue
+                0x00000000       0x24 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .rodata.CSWTCH.8
+                0x00000000       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .rodata.CSWTCH.10
+                0x00000000       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .text          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .data          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .bss           0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .text          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .data          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .bss           0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .text.PINSEL_ConfigTraceFunc
+                0x00000000       0x24 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .text.PINSEL_SetI2C0Pins
+                0x00000000       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .text          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .data          0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .bss           0x00000000        0x0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .text.SystemCoreClockUpdate
+                0x00000000       0xcc C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(division.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(division.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(division.o)
+ .text.__aeabi_division_idiv
+                0x00000000       0x10 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(division.o)
+ .text.__aeabi_division_idivmod
+                0x00000000       0x16 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(division.o)
+ .text.__aeabi_division_uidiv
+                0x00000000       0x10 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(division.o)
+ .text.__aeabi_division_uidivmod
+                0x00000000       0x16 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(division.o)
+ .text.__aeabi_division_ldivmod
+                0x00000000       0x26 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(division.o)
+ .text.__aeabi_division_uldivmod
+                0x00000000      0x174 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(division.o)
+ .text.__aeabi_division_idiv0
+                0x00000000        0x2 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(division.o)
+ .text.__aeabi_division_ldiv0
+                0x00000000        0x2 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(division.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_frsub
+                0x00000000        0xc c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fneg
+                0x00000000        0x8 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2lz
+                0x00000000       0x5c c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2ulz
+                0x00000000       0x3c c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+ .text.__bhs_ul2f
+                0x00000000       0x50 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_ui2f
+                0x00000000        0x8 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_l2f
+                0x00000000       0x24 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_ul2f
+                0x00000000        0x8 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2d
+                0x00000000       0x3c c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpeq
+                0x00000000       0x20 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmple
+                0x00000000       0x40 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpge
+                0x00000000       0x40 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpun
+                0x00000000       0x1c c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_cfcmple
+                0x00000000       0x40 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_cfrcmple
+                0x00000000        0xc c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/adcc.o
+LOAD ./src/cr_startup_lpc176x.o
+LOAD ./src/main.o
+LOAD C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a
+LOAD C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a
+LOAD C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a
+LOAD c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a
+END GROUP
+                0x00080000                __top_MFlash512 = 0x80000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x20084000                __top_RamAHB32 = 0x20084000
+
+.text           0x00000000     0x3818
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xcc ./src/cr_startup_lpc176x.o
+                0x00000000                g_pfnVectors
+                0x000000cc                . = ALIGN (0x4)
+                0x000000cc                __section_table_start = .
+                0x000000cc                __data_section_table = .
+                0x000000cc        0x4 LONG 0x3818 LOADADDR (.data)
+                0x000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000d4        0x4 LONG 0x18 SIZEOF (.data)
+                0x000000d8        0x4 LONG 0x3818 LOADADDR (.data_RAM2)
+                0x000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000e4                __data_section_table_end = .
+                0x000000e4                __bss_section_table = .
+                0x000000e4        0x4 LONG 0x10000018 ADDR (.bss)
+                0x000000e8        0x4 LONG 0x91c SIZEOF (.bss)
+                0x000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000f4                __bss_section_table_end = .
+                0x000000f4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000f4       0x78 ./src/cr_startup_lpc176x.o
+                0x000000f4                NMI_Handler
+                0x000000f6                HardFault_Handler
+                0x000000f8                MemManage_Handler
+                0x000000fa                BusFault_Handler
+                0x000000fc                UsageFault_Handler
+                0x000000fe                SVC_Handler
+                0x00000100                DebugMon_Handler
+                0x00000102                PendSV_Handler
+                0x00000106                data_init
+                0x00000118                bss_init
+                0x00000128                ResetISR
+                0x00000168                UART1_IRQHandler
+                0x00000168                EINT3_IRQHandler
+                0x00000168                CANActivity_IRQHandler
+                0x00000168                TIMER3_IRQHandler
+                0x00000168                UART0_IRQHandler
+                0x00000168                EINT2_IRQHandler
+                0x00000168                I2C1_IRQHandler
+                0x00000168                IntDefaultHandler
+                0x00000168                PLL0_IRQHandler
+                0x00000168                PWM1_IRQHandler
+                0x00000168                PLL1_IRQHandler
+                0x00000168                SSP0_IRQHandler
+                0x00000168                I2S_IRQHandler
+                0x00000168                I2C2_IRQHandler
+                0x00000168                RTC_IRQHandler
+                0x00000168                TIMER0_IRQHandler
+                0x00000168                SPI_IRQHandler
+                0x00000168                USBActivity_IRQHandler
+                0x00000168                EINT1_IRQHandler
+                0x00000168                TIMER1_IRQHandler
+                0x00000168                UART2_IRQHandler
+                0x00000168                ADC_IRQHandler
+                0x00000168                SSP1_IRQHandler
+                0x00000168                BOD_IRQHandler
+                0x00000168                I2C0_IRQHandler
+                0x00000168                WDT_IRQHandler
+                0x00000168                RIT_IRQHandler
+                0x00000168                QEI_IRQHandler
+                0x00000168                EINT0_IRQHandler
+                0x00000168                CAN_IRQHandler
+                0x00000168                DMA_IRQHandler
+                0x00000168                TIMER2_IRQHandler
+                0x00000168                UART3_IRQHandler
+                0x00000168                MCPWM_IRQHandler
+                0x00000168                ENET_IRQHandler
+                0x000002fc                . = 0x2fc
+ *fill*         0x0000016c      0x190 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/main.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__, .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.init     0x00000300       0x5c ./src/adcc.o
+                0x00000300                init
+ .text.NVIC_SetPriority
+                0x0000035c       0x5c ./src/main.o
+ .text.SysTick_Config
+                0x000003b8       0x64 ./src/main.o
+ .text.main     0x0000041c      0x23c ./src/main.o
+                0x0000041c                main
+ .text.SysTick_Handler
+                0x00000658       0x74 ./src/main.o
+                0x00000658                SysTick_Handler
+ .text.adqui    0x000006cc      0x2e4 ./src/main.o
+                0x000006cc                adqui
+ .text.cuentapicos
+                0x000009b0       0x34 ./src/main.o
+                0x000009b0                cuentapicos
+ .text.switchss
+                0x000009e4       0xb4 ./src/main.o
+                0x000009e4                switchss
+ .text.Cuentas  0x00000a98      0x17c ./src/main.o
+                0x00000a98                Cuentas
+ .text.var_init
+                0x00000c14       0xb8 ./src/main.o
+                0x00000c14                var_init
+ .text.R_SPO2   0x00000ccc      0x114 ./src/main.o
+                0x00000ccc                R_SPO2
+ .text.in       0x00000de0       0x4c ./src/main.o
+                0x00000de0                in
+ .text.out      0x00000e2c       0x50 ./src/main.o
+                0x00000e2c                out
+ .text.bradi    0x00000e7c        0xc ./src/main.o
+                0x00000e7c                bradi
+ .text.taqui    0x00000e88        0xc ./src/main.o
+                0x00000e88                taqui
+ .text.normal   0x00000e94        0xc ./src/main.o
+                0x00000e94                normal
+ .text.lcd_delay
+                0x00000ea0       0x34 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+                0x00000ea0                lcd_delay
+ .text.LcdSend  0x00000ed4      0x184 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+                0x00000ed4                LcdSend
+ .text.LcdSendByte
+                0x00001058       0x2c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+                0x00001058                LcdSendByte
+ .text.LcdSendInstruction
+                0x00001084       0x28 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+                0x00001084                LcdSendInstruction
+ .text.lcd_gotoxy
+                0x000010ac       0x3c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+                0x000010ac                lcd_gotoxy
+ .text.lcd_send_character
+                0x000010e8       0x28 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+                0x000010e8                lcd_send_character
+ .text.lcd_print
+                0x00001110       0x2c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+                0x00001110                lcd_print
+ .text.Init_Msj
+                0x0000113c       0xb8 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+                0x0000113c                Init_Msj
+ .text.Data_transf
+                0x000011f4       0x80 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+                0x000011f4                Data_transf
+ .text.DefaultReportHandler
+                0x00001274       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+                0x00001274                DefaultReportHandler
+ .text.usbhidInit
+                0x00001288       0x38 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+                0x00001288                usbhidInit
+ .text.NVIC_EnableIRQ
+                0x000012c0       0x38 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+ .text.EPAdr    0x000012f8       0x34 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x000012f8                EPAdr
+ .text.WrCmd    0x0000132c       0x48 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x0000132c                WrCmd
+ .text.WrCmdDat
+                0x00001374       0x7c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x00001374                WrCmdDat
+ .text.WrCmdEP  0x000013f0       0x88 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x000013f0                WrCmdEP
+ .text.RdCmdDat
+                0x00001478       0x54 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x00001478                RdCmdDat
+ .text.USB_Init
+                0x000014cc       0xf4 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x000014cc                USB_Init
+ .text.USB_Connect
+                0x000015c0       0x34 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x000015c0                USB_Connect
+ .text.USB_Reset
+                0x000015f4       0xa0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x000015f4                USB_Reset
+ .text.USB_Suspend
+                0x00001694        0xc C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x00001694                USB_Suspend
+ .text.USB_Resume
+                0x000016a0        0xc C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x000016a0                USB_Resume
+ .text.USB_WakeUpCfg
+                0x000016ac       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x000016ac                USB_WakeUpCfg
+ .text.USB_SetAddress
+                0x000016c0       0x48 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x000016c0                USB_SetAddress
+ .text.USB_Configure
+                0x00001708       0x68 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x00001708                USB_Configure
+ .text.USB_ConfigEP
+                0x00001770       0x8c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x00001770                USB_ConfigEP
+ .text.USB_DirCtrlEP
+                0x000017fc       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x000017fc                USB_DirCtrlEP
+ .text.USB_EnableEP
+                0x00001810       0x30 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x00001810                USB_EnableEP
+ .text.USB_DisableEP
+                0x00001840       0x34 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x00001840                USB_DisableEP
+ .text.USB_ResetEP
+                0x00001874       0x30 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x00001874                USB_ResetEP
+ .text.USB_SetStallEP
+                0x000018a4       0x34 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x000018a4                USB_SetStallEP
+ .text.USB_ClrStallEP
+                0x000018d8       0x30 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x000018d8                USB_ClrStallEP
+ .text.USB_ReadEP
+                0x00001908       0xc0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x00001908                USB_ReadEP
+ .text.USB_WriteEP
+                0x000019c8       0x98 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x000019c8                USB_WriteEP
+ .text.USB_IRQHandler
+                0x00001a60      0x1cc C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                0x00001a60                USB_IRQHandler
+ .text.USB_Reset_Event
+                0x00001c2c        0xc C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+                0x00001c2c                USB_Reset_Event
+ .text.USB_Configure_Event
+                0x00001c38       0x40 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+                0x00001c38                USB_Configure_Event
+ .text.USB_EndPoint1
+                0x00001c78       0x44 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+                0x00001c78                USB_EndPoint1
+ .text.USB_ResetCore
+                0x00001cbc       0x60 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+                0x00001cbc                USB_ResetCore
+ .text.USB_SetupStage
+                0x00001d1c       0x18 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+                0x00001d1c                USB_SetupStage
+ .text.USB_DataInStage
+                0x00001d34       0x80 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+                0x00001d34                USB_DataInStage
+ .text.USB_DataOutStage
+                0x00001db4       0x5c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+                0x00001db4                USB_DataOutStage
+ .text.USB_StatusInStage
+                0x00001e10       0x18 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+                0x00001e10                USB_StatusInStage
+ .text.USB_StatusOutStage
+                0x00001e28       0x18 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+                0x00001e28                USB_StatusOutStage
+ .text.USB_ReqGetStatus
+                0x00001e40      0x138 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+                0x00001e40                USB_ReqGetStatus
+ .text.USB_ReqSetClrFeature
+                0x00001f78      0x180 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+                0x00001f78                USB_ReqSetClrFeature
+ .text.USB_ReqSetAddress
+                0x000020f8       0x48 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+                0x000020f8                USB_ReqSetAddress
+ .text.USB_ReqGetDescriptor
+                0x00002140      0x1e0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+                0x00002140                USB_ReqGetDescriptor
+ .text.USB_ReqGetConfiguration
+                0x00002320       0x40 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+                0x00002320                USB_ReqGetConfiguration
+ .text.USB_ReqSetConfiguration
+                0x00002360      0x2f0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+                0x00002360                USB_ReqSetConfiguration
+ .text.USB_ReqGetInterface
+                0x00002650       0x78 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+                0x00002650                USB_ReqGetInterface
+ .text.USB_ReqSetInterface
+                0x000026c8      0x220 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+                0x000026c8                USB_ReqSetInterface
+ .text.USB_EndPoint0
+                0x000028e8      0x43c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+                0x000028e8                USB_EndPoint0
+ .text.HID_GetReport
+                0x00002d24       0x84 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+                0x00002d24                HID_GetReport
+ .text.HID_SetReport
+                0x00002da8       0x84 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+                0x00002da8                HID_SetReport
+ .text.HID_GetIdle
+                0x00002e2c       0x30 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+                0x00002e2c                HID_GetIdle
+ .text.HID_SetIdle
+                0x00002e5c       0x30 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+                0x00002e5c                HID_SetIdle
+ .text.HID_GetProtocol
+                0x00002e8c       0x24 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+                0x00002e8c                HID_GetProtocol
+ .text.HID_SetProtocol
+                0x00002eb0       0x24 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+                0x00002eb0                HID_SetProtocol
+ .text.ADC_Init
+                0x00002ed4       0x60 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                0x00002ed4                ADC_Init
+ .text.ADC_BurstCmd
+                0x00002f34       0x30 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                0x00002f34                ADC_BurstCmd
+ .text.ADC_ChannelCmd
+                0x00002f64       0x3c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                0x00002f64                ADC_ChannelCmd
+ .text.ADC_ChannelGetData
+                0x00002fa0       0x2c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                0x00002fa0                ADC_ChannelGetData
+ .text.CLKPWR_GetPCLKSEL
+                0x00002fcc       0x20 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+                0x00002fcc                CLKPWR_GetPCLKSEL
+ .text.CLKPWR_GetPCLK
+                0x00002fec       0x20 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+                0x00002fec                CLKPWR_GetPCLK
+ .text.CLKPWR_ConfigPPWR
+                0x0000300c       0x34 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+                0x0000300c                CLKPWR_ConfigPPWR
+ .text.GPIO_SetDir
+                0x00003040       0x24 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                0x00003040                GPIO_SetDir
+ .text.GPIO_SetValue
+                0x00003064       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                0x00003064                GPIO_SetValue
+ .text.GPIO_ClearValue
+                0x00003078       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                0x00003078                GPIO_ClearValue
+ .text.check_failed
+                0x0000308c        0x2 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+                0x0000308c                check_failed
+ *fill*         0x0000308e        0x2 00
+ .text.PINSEL_ConfigPin
+                0x00003090       0x94 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+                0x00003090                PINSEL_ConfigPin
+ .text.SystemInit
+                0x00003124       0xe4 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                0x00003124                SystemInit
+ .text.__weak_main
+                0x00003208        0x4 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                0x00003208                __weak_main
+                0x00003208                __main
+ .text.__aeabi_fmul
+                0x0000320c       0xc0 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+                0x0000320c                __aeabi_fmul
+ .text.__aeabi_fdiv
+                0x000032cc       0xc4 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+                0x000032cc                __aeabi_fdiv
+ .text.__aeabi_fsub
+                0x00003390       0xe8 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+                0x00003390                __aeabi_fsub
+ .text.__aeabi_fadd
+                0x00003478       0xa4 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+                0x00003478                __aeabi_fadd
+ .text.__aeabi_f2iz
+                0x0000351c       0x34 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+                0x0000351c                __aeabi_f2iz
+ .text.__aeabi_f2uiz
+                0x00003550       0x28 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+                0x00003550                __aeabi_f2uiz
+ .text.__bhs_ui2f
+                0x00003578       0x28 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+                0x00003578                __bhs_ui2f
+ .text.__aeabi_i2f
+                0x000035a0       0x10 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+                0x000035a0                __aeabi_i2f
+ .text.__aeabi_fcmplt
+                0x000035b0       0x40 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+                0x000035b0                __aeabi_fcmplt
+ .text.__aeabi_fcmpgt
+                0x000035f0       0x40 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+                0x000035f0                __aeabi_fcmpgt
+ *(.rodata .rodata.*)
+ .rodata        0x00003630       0xb8 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+ .rodata.USB_P_EP
+                0x000036e8       0x40 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+                0x000036e8                USB_P_EP
+ .rodata.HID_ReportDescriptor
+                0x00003728       0x24 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbdesc.o)
+                0x00003728                HID_ReportDescriptor
+ .rodata.HID_ReportDescSize
+                0x0000374c        0x2 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbdesc.o)
+                0x0000374c                HID_ReportDescSize
+ *fill*         0x0000374e        0x2 00
+ .rodata.USB_DeviceDescriptor
+                0x00003750       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbdesc.o)
+                0x00003750                USB_DeviceDescriptor
+ .rodata.USB_ConfigDescriptor
+                0x00003764       0x24 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbdesc.o)
+                0x00003764                USB_ConfigDescriptor
+ .rodata.USB_StringDescriptor
+                0x00003788       0x64 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbdesc.o)
+                0x00003788                USB_StringDescriptor
+ .rodata.str1.1
+                0x000037ec       0x15 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ *fill*         0x00003801        0x3 00
+ .rodata.CSWTCH.6
+                0x00003804       0x14 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                0x00003818                . = ALIGN (0x4)
+
+.glue_7         0x00003818        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x00003818        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x00003818        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00003818        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00003818                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00003818                __exidx_end = .
+                0x00003818                _etext = .
+
+.data_RAM2      0x2007c000        0x0 load address 0x00003818
+ FILL mask 0xff
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000       0x18 load address 0x00003818
+ FILL mask 0xff
+                0x10000000                .data = .
+ *(vtable)
+ *(.data*)
+ .data.ledtick  0x10000000        0x4 ./src/main.o
+                0x10000000                ledtick
+ .data.min      0x10000004        0x4 ./src/main.o
+                0x10000004                min
+ .data.aux      0x10000008        0x4 ./src/main.o
+                0x10000008                aux
+ .data.GetInReport
+                0x1000000c        0x4 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+                0x1000000c                GetInReport
+ .data.SetOutReport
+                0x10000010        0x4 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+                0x10000010                SetOutReport
+ .data.SystemCoreClock
+                0x10000014        0x4 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                0x10000014                SystemCoreClock
+                0x10000018                . = ALIGN (0x4)
+                0x10000018                _edata = .
+
+.bss_RAM2       0x2007c000        0x0
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.bss            0x10000018      0x91c
+                0x10000018                _bss = .
+ *(.bss*)
+ .bss.max       0x10000018        0x4 ./src/main.o
+                0x10000018                max
+ .bss.reentrando
+                0x1000001c        0x4 ./src/main.o
+                0x1000001c                reentrando
+ *(COMMON)
+ COMMON         0x10000020      0x8b4 ./src/main.o
+                0x10000020                dat
+                0x10000070                j
+                0x10000074                ledtick2
+                0x10000078                contamos
+                0x1000007c                auxIR
+                0x10000080                bufmin
+                0x100000a8                auxIR2
+                0x100000ac                auxR
+                0x100000b0                auxSpO2
+                0x100000b4                auxR2
+                0x100000b8                bufmax
+                0x100000e0                i
+                0x100000e4                bpp
+                0x100000e8                conta
+                0x100000ec                cont
+                0x100000f0                SpO2
+                0x100000f4                R
+                0x100000f8                buf
+                0x100008c8                msTicks
+                0x100008cc                toggle
+                0x100008d0                a
+ COMMON         0x100008d4        0x1 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+                0x100008d4                instruccion
+ *fill*         0x100008d5        0x3 00
+ COMMON         0x100008d8       0x20 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+                0x100008d8                InReport
+                0x100008e8                OutReport
+ COMMON         0x100008f8       0x36 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+                0x100008f8                USB_AltSetting
+                0x100008fc                EP0Buf
+                0x10000904                USB_EndPointMask
+                0x10000908                USB_DeviceAddress
+                0x1000090c                USB_EndPointStall
+                0x10000910                USB_EndPointHalt
+                0x10000914                USB_Configuration
+                0x10000918                SetupPacket
+                0x10000920                USB_NumInterfaces
+                0x10000924                EP0Data
+                0x1000092c                USB_DeviceStatus
+ *fill*         0x1000092e        0x2 00
+ COMMON         0x10000930        0x2 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+                0x10000930                HID_IdleTime
+                0x10000931                HID_Protocol
+                0x10000934                . = ALIGN (0x4)
+ *fill*         0x10000932        0x2 00
+                0x10000934                _ebss = .
+                0x10000934                PROVIDE (end, .)
+
+.noinit_RAM2    0x2007c000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.noinit         0x10000934        0x0
+                0x10000934                _noinit = .
+ *(.noinit*)
+                0x10000934                . = ALIGN (0x4)
+                0x10000934                _end_noinit = .
+                0x10000934                PROVIDE (_pvHeapStart, .)
+                0x10008000                PROVIDE (_vStackTop, (__top_RamLoc32 - 0x0))
+OUTPUT(ADC_Burst.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x6711
+ .debug_info    0x00000000      0x27f ./src/adcc.o
+ .debug_info    0x0000027f      0x2dd ./src/cr_startup_lpc176x.o
+ .debug_info    0x0000055c      0xf19 ./src/main.o
+ .debug_info    0x00001475      0x6b6 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+ .debug_info    0x00001b2b      0x1c9 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+ .debug_info    0x00001cf4     0x12e4 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+ .debug_info    0x00002fd8      0x425 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .debug_info    0x000033fd      0x91b C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+ .debug_info    0x00003d18      0x152 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbdesc.o)
+ .debug_info    0x00003e6a      0x3b6 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+ .debug_info    0x00004220      0x64c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_info    0x0000486c      0x6dc C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_info    0x00004f48      0xe2c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_info    0x00005d74       0xca C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_info    0x00005e3e      0x544 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_info    0x00006382      0x38f C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_abbrev   0x00000000     0x16c7
+ .debug_abbrev  0x00000000       0xdb ./src/adcc.o
+ .debug_abbrev  0x000000db      0x12b ./src/cr_startup_lpc176x.o
+ .debug_abbrev  0x00000206      0x290 ./src/main.o
+ .debug_abbrev  0x00000496      0x197 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+ .debug_abbrev  0x0000062d       0xeb C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+ .debug_abbrev  0x00000718      0x25f C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+ .debug_abbrev  0x00000977      0x108 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .debug_abbrev  0x00000a7f      0x20b C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+ .debug_abbrev  0x00000c8a       0x74 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbdesc.o)
+ .debug_abbrev  0x00000cfe      0x179 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+ .debug_abbrev  0x00000e77      0x176 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_abbrev  0x00000fed      0x1b0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_abbrev  0x0000119d      0x23d C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_abbrev  0x000013da       0x6a C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_abbrev  0x00001444      0x1a0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_abbrev  0x000015e4       0xe3 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_loc      0x00000000     0x2112
+ .debug_loc     0x00000000       0x38 ./src/adcc.o
+ .debug_loc     0x00000038      0x102 ./src/cr_startup_lpc176x.o
+ .debug_loc     0x0000013a      0x2dc ./src/main.o
+ .debug_loc     0x00000416      0x27e C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+ .debug_loc     0x00000694       0x70 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+ .debug_loc     0x00000704      0x5ac C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+ .debug_loc     0x00000cb0      0x3a0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .debug_loc     0x00001050      0x2f4 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+ .debug_loc     0x00001344      0x120 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+ .debug_loc     0x00001464      0x4f5 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_loc     0x00001959      0x191 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_loc     0x00001aea      0x4a1 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_loc     0x00001f8b      0x167 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_loc     0x000020f2       0x20 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_aranges  0x00000000      0x668
+ .debug_aranges
+                0x00000000       0x20 ./src/adcc.o
+ .debug_aranges
+                0x00000020       0x80 ./src/cr_startup_lpc176x.o
+ .debug_aranges
+                0x000000a0       0x90 ./src/main.o
+ .debug_aranges
+                0x00000130       0x78 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+ .debug_aranges
+                0x000001a8       0x28 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+ .debug_aranges
+                0x000001d0       0xf0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+ .debug_aranges
+                0x000002c0       0xa0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .debug_aranges
+                0x00000360       0x90 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+ .debug_aranges
+                0x000003f0       0x48 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+ .debug_aranges
+                0x00000438       0x80 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_aranges
+                0x000004b8       0x58 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_aranges
+                0x00000510       0xe0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_aranges
+                0x000005f0       0x20 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_aranges
+                0x00000610       0x30 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_aranges
+                0x00000640       0x28 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_ranges   0x00000000      0x620
+ .debug_ranges  0x00000000       0x10 ./src/adcc.o
+ .debug_ranges  0x00000010       0x70 ./src/cr_startup_lpc176x.o
+ .debug_ranges  0x00000080       0x80 ./src/main.o
+ .debug_ranges  0x00000100       0x68 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+ .debug_ranges  0x00000168       0x18 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+ .debug_ranges  0x00000180       0xe0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+ .debug_ranges  0x00000260       0x90 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .debug_ranges  0x000002f0       0x80 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+ .debug_ranges  0x00000370       0x38 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+ .debug_ranges  0x000003a8       0x70 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_ranges  0x00000418       0x48 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_ranges  0x00000460      0x118 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_ranges  0x00000578       0x10 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_ranges  0x00000588       0x80 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_ranges  0x00000608       0x18 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_line     0x00000000     0x51a9
+ .debug_line    0x00000000      0x3f4 ./src/adcc.o
+ .debug_line    0x000003f4      0x3df ./src/cr_startup_lpc176x.o
+ .debug_line    0x000007d3      0x763 ./src/main.o
+ .debug_line    0x00000f36      0x5cc C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+ .debug_line    0x00001502      0x4e1 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+ .debug_line    0x000019e3      0x785 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+ .debug_line    0x00002168      0x576 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .debug_line    0x000026de      0x78f C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+ .debug_line    0x00002e6d      0x3d4 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbdesc.o)
+ .debug_line    0x00003241      0x482 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+ .debug_line    0x000036c3      0x56d C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_line    0x00003c30      0x485 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_line    0x000040b5      0x5cd C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_line    0x00004682      0x34c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_line    0x000049ce      0x3ea C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_line    0x00004db8      0x3f1 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_macinfo  0x00000000    0x80bd2
+ .debug_macinfo
+                0x00000000     0x90c5 ./src/adcc.o
+ .debug_macinfo
+                0x000090c5     0x3d45 ./src/cr_startup_lpc176x.o
+ .debug_macinfo
+                0x0000ce0a     0x9feb ./src/main.o
+ .debug_macinfo
+                0x00016df5     0x8746 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+ .debug_macinfo
+                0x0001f53b     0x967a C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+ .debug_macinfo
+                0x00028bb5     0x9b34 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+ .debug_macinfo
+                0x000326e9     0x947e C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .debug_macinfo
+                0x0003bb67     0x6ea2 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+ .debug_macinfo
+                0x00042a09     0x6ab3 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbdesc.o)
+ .debug_macinfo
+                0x000494bc     0x692f C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+ .debug_macinfo
+                0x0004fdeb     0xa074 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_macinfo
+                0x00059e5f     0x972f C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_macinfo
+                0x0006358e     0x87ec C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_macinfo
+                0x0006bd7a     0x401d C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_macinfo
+                0x0006fd97     0x890a C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_macinfo
+                0x000786a1     0x8531 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_str      0x00000000     0x2094
+ .debug_str     0x00000000      0x241 ./src/adcc.o
+                                0x275 (size before relaxing)
+ .debug_str     0x00000241      0x177 ./src/cr_startup_lpc176x.o
+                                0x28b (size before relaxing)
+ .debug_str     0x000003b8      0x54d ./src/main.o
+                                0x789 (size before relaxing)
+ .debug_str     0x00000905      0x158 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+                                0x38b (size before relaxing)
+ .debug_str     0x00000a5d       0x9d C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+                                0x1b6 (size before relaxing)
+ .debug_str     0x00000afa      0x7db C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+                                0xb99 (size before relaxing)
+ .debug_str     0x000012d5      0x125 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+                                0x293 (size before relaxing)
+ .debug_str     0x000013fa      0x3d1 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+                                0x64a (size before relaxing)
+ .debug_str     0x000017cb       0x11 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbdesc.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x000017dc       0x7f C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+                                0x284 (size before relaxing)
+ .debug_str     0x0000185b      0x30f C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+                                0x4f8 (size before relaxing)
+ .debug_str     0x00001b6a       0xcb C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+                                0x3dd (size before relaxing)
+ .debug_str     0x00001c35      0x2f9 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+                                0x5a2 (size before relaxing)
+ .debug_str     0x00001f2e       0x37 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+                                0x164 (size before relaxing)
+ .debug_str     0x00001f65       0xf6 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+                                0x3b6 (size before relaxing)
+ .debug_str     0x0000205b       0x39 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                                0x2c8 (size before relaxing)
+
+.comment        0x00000000       0xe0
+ .comment       0x00000000       0x70 ./src/adcc.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./src/cr_startup_lpc176x.o
+ .comment       0x00000000       0x71 ./src/main.o
+ .comment       0x00000000       0x71 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+ .comment       0x00000000       0x71 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+ .comment       0x00000000       0x71 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+ .comment       0x00000000       0x71 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .comment       0x00000000       0x71 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+ .comment       0x00000000       0x71 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbdesc.o)
+ .comment       0x00000000       0x71 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+ .comment       0x00000000       0x71 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .comment       0x00000000       0x71 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .comment       0x00000000       0x71 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .comment       0x00000000       0x71 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .comment       0x00000000       0x71 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .comment       0x00000000       0x71 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .comment       0x00000070       0x70 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x33 ./src/adcc.o
+ .ARM.attributes
+                0x00000033       0x33 ./src/cr_startup_lpc176x.o
+ .ARM.attributes
+                0x00000066       0x33 ./src/main.o
+ .ARM.attributes
+                0x00000099       0x33 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+ .ARM.attributes
+                0x000000cc       0x33 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+ .ARM.attributes
+                0x000000ff       0x33 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+ .ARM.attributes
+                0x00000132       0x33 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .ARM.attributes
+                0x00000165       0x33 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+ .ARM.attributes
+                0x00000198       0x33 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbdesc.o)
+ .ARM.attributes
+                0x000001cb       0x33 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+ .ARM.attributes
+                0x000001fe       0x33 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .ARM.attributes
+                0x00000231       0x33 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .ARM.attributes
+                0x00000264       0x33 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .ARM.attributes
+                0x00000297       0x33 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .ARM.attributes
+                0x000002ca       0x33 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .ARM.attributes
+                0x000002fd       0x33 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .ARM.attributes
+                0x00000330       0x33 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x00000363       0x21 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(division.o)
+ .ARM.attributes
+                0x00000384       0x33 c:/nxp/lpcxpresso_5.2.2_2108/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libcr_eabihelpers.a(float.o)
+
+.debug_frame    0x00000000     0x10a8
+ .debug_frame   0x00000000       0x30 ./src/adcc.o
+ .debug_frame   0x00000030       0xf4 ./src/cr_startup_lpc176x.o
+ .debug_frame   0x00000124      0x1b8 ./src/main.o
+ .debug_frame   0x000002dc      0x180 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\LCD_Library\Debug\libLCD_Library.a(lcd.o)
+ .debug_frame   0x0000045c       0x4c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhid.o)
+ .debug_frame   0x000004a8      0x334 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbhw.o)
+ .debug_frame   0x000007dc      0x1f0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbuser.o)
+ .debug_frame   0x000009cc      0x1bc C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(usbcore.o)
+ .debug_frame   0x00000b88       0xb0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\libUSB_HID\Debug\liblibUSB_HID.a(hiduser.o)
+ .debug_frame   0x00000c38      0x168 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
+ .debug_frame   0x00000da0       0xa0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
+ .debug_frame   0x00000e40      0x1c0 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
+ .debug_frame   0x00001000       0x20 C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
+ .debug_frame   0x00001020       0x4c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
+ .debug_frame   0x0000106c       0x3c C:\Users\Guillermo\Documents\LPCXpresso_5.2.2_2108\oximetro\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
